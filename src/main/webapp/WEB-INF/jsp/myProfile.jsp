@@ -88,7 +88,7 @@
 
 						<tr>
 							<td></td>
-							<td><button class=" btn btn-light""><a href="logout">LOGOUT</a></button></td>
+							<td><button class=" btn btn-light"><a href="logout">LOGOUT</a></button></td>
 						</tr>
 
 					</table>

@@ -221,7 +221,7 @@ public class GoogleController
 		return page;
 	}
 	
-	// saving user through goolge sign in
+	// saving user through google sign in
 	@RequestMapping(value = "/user/Form", method = RequestMethod.POST)
 	public ModelAndView saveCompany(@ModelAttribute("admin") Admin admin,@RequestParam("google_id") String google_id,@RequestParam("firstname") String firstname,
 			@RequestParam("lastname") String lastname,@RequestParam("email") String email,
